@@ -1,4 +1,4 @@
-## R Markdown
+## An introduction to go for beginners in Spanish
 
 This is the presentation of a go event at BBVA Data & Analytics that took place on the 16th Februry 2018.
 
